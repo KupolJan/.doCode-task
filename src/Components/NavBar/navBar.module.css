@@ -1,0 +1,56 @@
+.nav{
+    padding: 108px 86px 0 29px;
+    border-right: 1px solid #DADADA;;
+}
+
+.links{
+
+}
+
+.navLink{
+    margin-bottom: 36px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.navLink a[class='active']{
+    color: #FD3A6C;
+}
+
+.active{
+    color: red !important;
+}
+
+.navLink:last-child{
+    margin-bottom: 520px;
+}
+
+.navLink a{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #262626;
+}
+
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    padding-bottom: 26px;
+}
+
+.profile a{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 41px;
+    color: #262626;
+    text-decoration: none;
+}
+
+.active{
+    color: red;
+}

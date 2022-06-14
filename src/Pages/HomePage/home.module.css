@@ -1,0 +1,16 @@
+.home{
+    display: flex;
+}
+
+.accounts{
+    padding: 50px 56px 236px 31px;
+}
+
+.title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #262626;
+    padding-bottom: 20.35px;
+}
